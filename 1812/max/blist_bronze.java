@@ -1,7 +1,7 @@
 //Max Yang
 //40 minutes
 //All tests passed
-//Spent some time with arrays but not much debugging
+//Spent some time with arrays but not much debugging 
 import java.io.*;
 import java.util.*;
 
